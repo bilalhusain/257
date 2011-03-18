@@ -1,1 +1,1 @@
-"book for people interested in tech startup" 
+Book for people looking for development as a hobby.
